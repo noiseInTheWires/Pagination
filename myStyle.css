@@ -1,0 +1,31 @@
+#navigation {
+  display: flex;
+  flex-direction: row;
+}
+
+span {
+  padding: 30px;
+  background-color: brown;
+  border: 1px solid black;
+}
+
+#pageBtns {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  display: flex;
+}
+
+button {
+  padding: 30px;
+}
+
+.hideme {
+  display: none;
+}
+
+.showme {
+  display: flex;
+}
